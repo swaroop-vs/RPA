@@ -49,7 +49,7 @@
         "testCaseId": "5db26fb3-ef3d-40dd-b245-47bf16fc7ff2",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase.xaml"
+        "fileName": "TestCase1.xaml"
       }
     ],
     "modernBehavior": true
